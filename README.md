@@ -4,13 +4,13 @@ A mobile-first, industrial-grade web interface for monitoring and controlling th
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-> Deployed via Netlify: **[your-site-name].netlify.app**
+> Deployed via Netlify:
 
 ---
 
-## 📋 Features
+##  Features
 
 - **Multi-System Management** — Add, edit, and delete monitoring stations dynamically
 - **4 Variable Panels** per system:
@@ -24,14 +24,14 @@ A mobile-first, industrial-grade web interface for monitoring and controlling th
 - **Settings** — General config, notifications, SCADA integration, data retention, security
 - **Account** — User profile, access permissions, certifications
 
-## 📱 Responsive Design
+##  Responsive Design
 
 - **Mobile** — Bottom navigation bar, slide-out drawer sidebar, swipeable KPI cards, large touch targets
 - **Tablet / Desktop** — Pinned sidebar, expanded grid layouts
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 LTPCS/
@@ -69,7 +69,7 @@ LTPCS/
 
 ---
 
-## 📐 Variable Reference
+##  Variable Reference
 
 | Section | Key Variables |
 |---|---|
@@ -80,7 +80,7 @@ LTPCS/
 
 ---
 
-## 🏫 About
+##  About
 
 Built for **De La Salle University** Environmental Engineering — Thermal Pollution Control monitoring interface.
 
